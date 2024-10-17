@@ -3,4 +3,4 @@ service: randomquotes-go
 
 # APIENDPOINT environment variable points to an external quotes api endpoint
 #env_variables:
-#  APIENDPOINT: "https://us-central1-cohesive-feat-310021.cloudfunctions.net/my-java-function"
+APIENDPOINT: "https://github.com/OctopusSamples/RandomQuotesAPI-Java-Azure-Functions"
