@@ -78,5 +78,5 @@ jobs:
       uses: docker/build-push-action@v3
       with:
         push: true
-        tags: octopussamples/randomquotesgo:latest
+        tags: manuschu/randomquotesgo:latest
 
